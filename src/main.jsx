@@ -109,7 +109,7 @@ const Portfolio = () => {
         <h2 className="section-title">Contact</h2>
         <div className="contact-info">
           <p><i className="fas fa-phone"></i> +91 9573323074</p>
-          <p><i className="fas fa-envelope"></i> <a href="mailto:emahil999@gmail.com" className="link">emahil999@gmail.com</a></p>
+          <p><i className="fas fa-envelope"></i> <a href="mailto:emahil999@gmail.com" className="link">mahenderesampellyy@gmail.com</a></p>
           <p><i className="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/mahender-esampelly-4a357526b" className="link" target="_blank" rel="noreferrer">LinkedIn Profile</a></p>
         </div>
       </section>
